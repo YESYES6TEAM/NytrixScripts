@@ -3843,6 +3843,3 @@ scrollFrame.CanvasSize = UDim2.new(0, 0, 0, 700)
 
 print("Walvy Community Ultimate Loaded!")
 print("Features: 6 Tween Styles, 5 Teleport Methods, Anti-Death, Anti-Kick")
------------
-We are done so no errors whole sdroit and in location telport with shop and leaderstats let me know where i put position or cframe idk bro 
------
